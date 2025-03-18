@@ -1,5 +1,3 @@
-# Multi-Cloud-Enterprise-DevOps-Platform
-
 # Multi-Cloud Enterprise DevOps Platform (AWS + Azure) with Kubernetes, Istio, ArgoCD & HIPAA Compliance
 
 ## Overview
